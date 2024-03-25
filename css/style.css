@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.bg-red{
+    background-color: rgb(146, 30, 30);
+}
+
+.c-white{
+    color: white;
+}
+
+.center-text{
+    padding: 20px;
+    text-align: center;
+}
+
+#question{
+    font-size: 24px;
+    font-style: italic;
+}
+
+.w-100{
+    max-width: 100%;
+}
+
+#container {
+    max-width: 900px;
+    margin: 0 auto;
+}
