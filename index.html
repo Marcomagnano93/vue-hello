@@ -16,12 +16,11 @@
 
     <!-- usa v-bind per assegnare una classe e un id di un oggeto -->
     <p v-bind="questionClass">{{ question }} (<a v-bind:href="link"> {{ discover }} </a>)</p>
-
     <!-- usa v-bind per inserire una immagine ( + usa la shortcut per aggiungere un classe) -->
     <div :id="idContainer">
         <img v-bind:src="marmotta" :class="imgClass">
     </div>
-    
+
 </div>
 
 

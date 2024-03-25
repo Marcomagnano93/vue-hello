@@ -73,9 +73,9 @@ ALTRE DIRETTIVE:
 V-FOR
 
 V-SHOW
-
+    
 V-FI | ELSEIF | ELSE
-
+    <!-- come funziona? -->
 V-ON
     es.
         addEventListener
